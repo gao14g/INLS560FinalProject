@@ -1,0 +1,1214 @@
+ID	Name	Cost	System
+18	Plagioclase	62.60	Dodixie
+19	Spodumain	4,900.00	Jita
+20	Kernite	200.00	Rens
+21	Hedbergite	723.99	Jita
+22	Arkonor	4,200.00	Jita
+34	Tritanium	6.10	Rens
+35	Pyerite	10.16	Dodixie
+36	Mexallon	59.19	Rens
+37	Isogen	94.86	Rens
+38	Nocxium	447.66	Jita
+39	Zydrine	1,065.63	Jita
+40	Megacyte	1,088.86	Jita
+41	Garbage	12.00	Dodixie
+42	Spiced Wine	1,400.01	Dodixie
+43	Antibiotics	300.00	Jita
+44	Enriched Uranium	11,398.31	Jita
+45	Frozen Plant Seeds	85.45	Jita
+582	Bantam	252,998.73	Jita
+583	Condor	274,999.98	Dodixie
+584	Griffin	403,898.87	Jita
+585	Slasher	395,123.00	Dodixie
+586	Probe	320,000.00	Dodixie
+587	Rifter	277,899.00	Dodixie
+588	Reaper	4,999.95	Dodixie
+589	Executioner	333,589.71	Amarr
+590	Inquisitor	399,999.87	Rens
+591	Tormentor	543,298.99	Dodixie
+592	Navitas	232,498.00	Dodixie
+593	Tristan	428,375.00	Rens
+594	Incursus	438,995.54	Jita
+596	Impairor	19,999.98	Dodixie
+597	Punisher	400,000.00	Dodixie
+598	Breacher	449,999.98	Amarr
+599	Burst	212,999.00	Dodixie
+601	Ibis	1,000.00	Rens
+602	Kestrel	407,999.98	Dodixie
+603	Merlin	348,999.97	Dodixie
+605	Heron	380,000.00	Dodixie
+606	Velator	11,032.73	Rens
+607	Imicus	426,515.41	Dodixie
+608	Atron	349,999.97	Rens
+609	Maulus	559,096.99	Amarr
+615	Immolator	195,997,999.99	Jita
+617	Echo	198,010,999.99	Jita
+620	Osprey	8,999,999.98	Dodixie
+621	Caracal	11,859,986.82	Amarr
+622	Stabber	10,499,998.00	Rens
+623	Moa	11,389,989.98	Rens
+624	Maller	11,379,987.39	Amarr
+625	Augoror	8,800,000.00	Rens
+626	Vexor	11,584,999.35	Amarr
+627	Thorax	10,544,997.00	Dodixie
+628	Arbitrator	8,799,995.00	Dodixie
+629	Rupture	12,496,748.89	Rens
+630	Bellicose	8,999,996.98	Dodixie
+631	Scythe	8,499,869.98	Dodixie
+632	Blackbird	8,299,990.00	Dodixie
+633	Celestis	8,199,989.97	Dodixie
+634	Exequror	9,149,990.93	Jita
+638	Raven	188,850,383.00	Jita
+639	Tempest	179,000,000.00	Rens
+640	Scorpion	171,499,999.39	Jita
+641	Megathron	179,699,975.78	Jita
+642	Apocalypse	189,492,999.99	Jita
+643	Armageddon	205,980,979.99	Jita
+644	Typhoon	185,128,989.91	Amarr
+645	Dominix	196,900,000.97	Dodixie
+648	Badger	640,000.00	Rens
+649	Tayra	1,299,999.72	Dodixie
+650	Nereus	890,000.00	Dodixie
+651	Hoarder	884,999.99	Dodixie
+652	Mammoth	1,449,999.97	Amarr
+653	Wreathe	740,999.98	Rens
+654	Kryos	1,149,898.99	Jita
+655	Epithal	980,899.90	Dodixie
+656	Miasmos	1,180,299.84	Jita
+657	Iteron Mark V	1,592,989.85	Amarr
+672	Caldari Shuttle	14,999.00	Rens
+1223	Bistot	4,500.00	Dodixie
+1224	Pyroxeres	53.00	Amarr
+1225	Crokite	4,459.93	Amarr
+1226	Jaspet	454.00	Rens
+1227	Omber	117.00	Jita
+1228	Scordite	26.34	Dodixie
+1229	Gneiss	1,400.01	Rens
+1230	Veldspar	18.02	Dodixie
+1231	Hemorphite	879.99	Jita
+1232	Dark Ochre	2,149.00	Jita
+1944	Bestower	1,197,999.85	Rens
+2006	Omen	10,445,000.00	Dodixie
+2073	Microorganisms	1.87	Jita
+2078	Zephyr	34,000,000.00	Rens
+2161	Crucifier	352,000.00	Dodixie
+2267	Base Metals	2.66	Jita
+2268	Aqueous Liquids	1.80	Dodixie
+2270	Noble Metals	4.20	Jita
+2272	Heavy Metals	3.37	Dodixie
+2286	Planktic Colonies	5.00	Rens
+2287	Complex Organisms	9.99	Jita
+2288	Carbon Compounds	1.60	Dodixie
+2305	Autotrophs	6.00	Dodixie
+2306	Non-CS Crystals	5.99	Jita
+2307	Felsic Magma	4.48	Jita
+2308	Suspended Plasma	2.30	Rens
+2309	Ionic Solutions	3.94	Jita
+2310	Noble Gas	1.05	Rens
+2311	Reactive Gas	4.50	Jita
+2312	Supertensile Plastics	13,800.00	Amarr
+2317	Oxides	7,799.00	Amarr
+2319	Test Cultures	6,000.00	Jita
+2321	Polyaramids	25,478.10	Jita
+2327	Microfiber Shielding	25,449.84	Amarr
+2328	Water-Cooled CPU	5,900.00	Rens
+2329	Biocells	9,800.00	Rens
+2344	Condensates	65,000.00	Amarr
+2345	Camera Drones	120,000.01	Amarr
+2346	Synthetic Synapses	89,999.00	Dodixie
+2348	Gel-Matrix Biopaste	123,988.94	Dodixie
+2349	Supercomputers	124,000.49	Amarr
+2351	Smartfab Units	102,999.97	Jita
+2352	Nuclear Reactors	110,000.00	Dodixie
+2354	Neocoms	90,000.00	Dodixie
+2358	Biotech Research Reports	120,000.00	Rens
+2360	Industrial Explosives	80,998.97	Jita
+2361	Hermetic Membranes	184,996.50	Jita
+2366	Hazmat Detection Systems	163,747.99	Amarr
+2367	Cryoprotectant Solution	124,000.13	Jita
+2368	Broken Organic Mortar Applicators	1,999,997.99	Jita
+2369	Broken Sterile Conduits	7,483,014.99	Jita
+2371	Broken Nano-Factory	6,830,115.99	Jita
+2373	Broken Self-Harmonizing Power Core	449,615.74	Jita
+2374	Broken Recursive Computing Module	3,999,999.99	Jita
+2375	Broken Broadcast Node	4,974,612.99	Jita
+2376	Broken Integrity Response Drones	2,643,414.00	Jita
+2377	Broken Wetware Mainframe	8,000,000.00	Jita
+2389	Plasmoids	498.99	Rens
+2390	Electrolytes	457.00	Amarr
+2392	Oxidizing Compound	1,159.99	Dodixie
+2393	Bacteria	359.00	Dodixie
+2395	Proteins	1,197.45	Jita
+2396	Biofuels	210.17	Dodixie
+2397	Industrial Fibers	1,396.06	Jita
+2398	Reactive Metals	399.96	Jita
+2399	Precious Metals	534.01	Jita
+2400	Toxic Metals	400.00	Rens
+2401	Chiral Structures	989.00	Dodixie
+2463	Nanites	5,500.10	Rens
+2834	Utu	0.00	Not For Sale
+2836	Adrestia	0.00	Not For Sale
+2863	Primae	7,497,000.00	Jita
+2867	Broadcast Node	2,599,997.93	Jita
+2868	Integrity Response Drones	2,434,966.86	Amarr
+2869	Nano-Factory	1,138,999.92	Amarr
+2870	Organic Mortar Applicators	1,100,000.00	Amarr
+2871	Recursive Computing Module	1,690,007.99	Amarr
+2872	Self-Harmonizing Power Core	2,500,000.00	Dodixie
+2875	Sterile Conduits	1,388,968.99	Amarr
+2876	Wetware Mainframe	2,344,997.00	Amarr
+2998	Noctis	73,500,000.00	Jita
+3516	Malice	0.00	Not For Sale
+3518	Vangel	0.00	Not For Sale
+3532	Echelon	8,788,000.00	Jita
+3643	Soil	100.01	Amarr
+3645	Water	340.00	Amarr
+3647	Holoreels	199.00	Rens
+3673	Wheat	80.00	Dodixie
+3683	Oxygen	389.98	Dodixie
+3685	Hydrogen Batteries	470.74	Dodixie
+3687	Electronic Parts	725.22	Dodixie
+3689	Mechanical Parts	9,137.00	Amarr
+3691	Synthetic Oil	7,810.01	Amarr
+3693	Fertilizer	11,755.96	Amarr
+3695	Polytextiles	11,550.53	Dodixie
+3697	Silicate Glass	20,700.00	Amarr
+3699	Quafe	57.93	Rens
+3703	Nerve Sticks	95,000.00	Jita
+3705	Crash	9,998.00	Jita
+3707	Blue Pill	288,999.00	Jita
+3709	Drop	1,149.57	Rens
+3711	X-Instinct	449,997.97	Jita
+3713	Vitoc	8,300.00	Amarr
+3715	Frozen Food	80.00	Dodixie
+3717	Dairy Products	99.00	Amarr
+3725	Livestock	13,965.65	Dodixie
+3727	Plutonium	13,000.00	Jita
+3729	Toxic Waste	10,000.00	Jita
+3756	Gnosis	58,488,898.89	Rens
+3766	Vigil	383,996.94	Amarr
+3771	Ectoplasm	1,999,999.99	Jita
+3773	Hydrochloric Acid	826.99	Jita
+3775	Viral Agent	9,197.52	Dodixie
+3777	Long-limb Roes	161.78	Dodixie
+3779	Biomass	964.99	Jita
+3812	Data Sheets	140.00	Rens
+3814	Reports	29.00	Amarr
+3818	Exile	994,999.93	Jita
+3820	Sooth Sayer	2,749,999.97	Jita
+3822	Frentix	900,000.00	Jita
+3824	Crystal Egg	1,162.32	Rens
+3826	Mindflood	1,500.00	Rens
+3828	Construction Blocks	9,700.00	Rens
+4051	Caldari Fuel Block	21,600.08	Amarr
+4246	Minmatar Fuel Block	20,369.70	Jita
+4247	Amarr Fuel Block	19,000.00	Amarr
+4302	Oracle	84,497,993.89	Amarr
+4306	Naga	75,000,000.00	Jita
+4308	Talos	80,599,599.00	Jita
+4310	Tornado	67,799,999.98	Rens
+4312	Gallente Fuel Block	19,377.01	Jita
+4363	Miasmos Quafe Ultra Edition	259,000,000.00	Jita
+4388	Miasmos Quafe Ultramarine Edition	4,500,000,000.00	Jita
+9826	Carbon	200.00	Dodixie
+9828	Silicon	1,166.00	Jita
+9830	Rocket Fuel	11,000.00	Amarr
+9832	Coolant	10,015.00	Amarr
+9834	Guidance Systems	78,439.00	Jita
+9836	Consumer Electronics	11,850.02	Amarr
+9838	Superconductors	10,250.00	Dodixie
+9840	Transmitter	17,000.00	Dodixie
+9842	Miniature Electronics	14,608.01	Amarr
+9844	Small Arms	999.00	Dodixie
+9846	Planetary Vehicles	82,000.00	Rens
+9848	Robotics	81,999.45	Amarr
+9850	Spirits	427.86	Amarr
+9852	Tobacco	44.44	Dodixie
+11011	Guardian-Vexor	0.00	Not For Sale
+11014	Command Processor I	444,645.05	Jita
+11069	Criminal Dog Tag	0.00	Not For Sale
+11129	Gallente Shuttle	14,749.99	Dodixie
+11132	Minmatar Shuttle	19,999.99	Rens
+11134	Amarr Shuttle	17,900.07	Amarr
+11172	Helios	21,144,999.99	Amarr
+11174	Keres	24,599,998.98	Rens
+11176	Crow	24,899,999.98	Jita
+11178	Raptor	25,999,970.00	Amarr
+11182	Cheetah	18,449,979.99	Jita
+11184	Crusader	22,000,000.00	Jita
+11186	Malediction	22,894,994.96	Jita
+11188	Anathema	18,750,000.00	Jita
+11190	Sentinel	16,869,989.89	Jita
+11192	Buzzard	24,999,999.00	Amarr
+11194	Kitsune	21,999,996.68	Amarr
+11196	Claw	21,898,998.99	Jita
+11198	Stiletto	22,898,898.86	Jita
+11200	Taranis	22,986,998.94	Jita
+11202	Ares	20,666,852.99	Jita
+11365	Vengeance	20,719,999.98	Jita
+11371	Wolf	21,742,998.97	Amarr
+11377	Nemesis	20,000,000.01	Jita
+11379	Hawk	20,650,000.70	Jita
+11381	Harpy	21,889,898.95	Dodixie
+11387	Hyena	16,999,998.98	Jita
+11393	Retribution	21,000,000.00	Jita
+11396	Mercoxit	29,999.99	Jita
+11399	Morphite	10,189.89	Jita
+11400	Jaguar	20,999,999.99	Amarr
+11457	R.Db - Viziam	450.00	Rens
+11458	R.Db - Khanid Innovation	586.24	Rens
+11459	R.Db - Carthum Conglomerate	500.00	Dodixie
+11460	R.Db - Thukker Mix	548.99	Dodixie
+11461	R.Db - Boundless Creations	586.24	Rens
+11462	R.Db - Core Complexion	299.99	Dodixie
+11463	R.Db - Ishukone	388.97	Jita
+11464	R.Db - Kaalakiota	739.93	Amarr
+11465	R.Db - Roden Shipyards	586.23	Dodixie
+11466	R.Db - CreoDron	525.00	Dodixie
+11467	R.Db - Duvolle Labs	348.00	Jita
+11475	R.A.M.- Armor/Hull Tech	269.60	Jita
+11476	R.A.M.- Ammunition Tech	277.71	Jita
+11478	R.A.M.- Starship Tech	208.01	Jita
+11481	R.A.M.- Robotics	388.76	Rens
+11482	R.A.M.- Energy Tech	302.87	Jita
+11483	R.A.M.- Electronics	258.89	Jita
+11484	R.A.M.- Shield Tech	278.77	Amarr
+11486	R.A.M.- Weapon Tech	289.92	Jita
+11496	Datacore - Defensive Subsystems Engineering	3,223.75	Amarr
+11530	Plasma Thruster	39,316.99	Jita
+11531	Ion Thruster	37,597.53	Amarr
+11532	Fusion Thruster	35,697.99	Rens
+11533	Magpulse Thruster	36,865.62	Jita
+11534	Gravimetric Sensor Cluster	31,113.00	Jita
+11535	Magnetometric Sensor Cluster	26,789.50	Jita
+11536	Ladar Sensor Cluster	26,249.98	Jita
+11537	Radar Sensor Cluster	25,394.99	Jita
+11538	Nanomechanical Microprocessor	36,999.75	Amarr
+11539	Nanoelectrical Microprocessor	40,499.03	Jita
+11540	Quantum Microprocessor	59,493.59	Jita
+11541	Photon Microprocessor	40,750.00	Jita
+11542	Fernite Carbide Composite Armor Plate	11,000.00	Dodixie
+11543	Tungsten Carbide Armor Plate	10,398.50	Jita
+11544	Titanium Diborite Armor Plate	12,999.57	Jita
+11545	Crystalline Carbonide Armor Plate	11,318.97	Jita
+11547	Fusion Reactor Unit	119,850.00	Jita
+11548	Nuclear Reactor Unit	128,650.00	Jita
+11549	Antimatter Reactor Unit	110,989.00	Jita
+11550	Graviton Reactor Unit	121,061.41	Jita
+11551	Electrolytic Capacitor Unit	34,498.40	Jita
+11552	Scalar Capacitor Unit	61,449.84	Jita
+11553	Oscillator Capacitor Unit	44,999.00	Amarr
+11554	Tesseract Capacitor Unit	38,133.93	Jita
+11555	Deflection Shield Emitter	42,450.00	Jita
+11556	Pulse Shield Emitter	46,999.88	Jita
+11557	Linear Shield Emitter	38,881.96	Rens
+11558	Sustained Shield Emitter	43,670.00	Dodixie
+11585	Pax Amarria	3,327.98	Amarr
+11588	Defunct Drone Sensor Module	1,619,157.00	Jita
+11688	Particle Accelerator Unit	24,171.00	Jita
+11689	Laser Focusing Crystals	22,494.97	Jita
+11690	Superconductor Rails	24,498.98	Jita
+11691	Thermonuclear Trigger Unit	23,001.31	Amarr
+11692	Nuclear Pulse Generator	19,014.44	Jita
+11693	Graviton Pulse Generator	19,997.18	Rens
+11694	EM Pulse Generator	18,965.59	Jita
+11695	Plasma Pulse Generator	20,049.30	Jita
+11724	Glossy Compound	24,899.00	Jita
+11725	Plush Compound	27,489.49	Amarr
+11732	Sheen Compound	5,000.00	Dodixie
+11733	Motley Compound	6,524.00	Amarr
+11734	Opulent Compound	17,999.97	Jita
+11735	Dark Compound	14,999.00	Jita
+11736	Lustering Alloy	27,989.00	Jita
+11737	Precious Alloy	44,444.00	Dodixie
+11738	Lucent Compound	2,000.00	Rens
+11739	Condensed Alloy	12,999.99	Jita
+11740	Gleaming Alloy	34,543.00	Jita
+11741	Crystal Compound	9,999.99	Jita
+11746	R.Db - Lai Dai	442.99	Jita
+11855	Protein Delicacies	5,999.97	Jita
+11936	Apocalypse Imperial Issue	0.00	Not For Sale
+11938	Armageddon Imperial Issue	0.00	Not For Sale
+11940	Gold Magnate	0.00	Not For Sale
+11942	Silver Magnate	0.00	Not For Sale
+11944	Synthetic Coffee	30,000.00	Rens
+11957	Falcon	196,988,737.00	Dodixie
+11959	Rook	200,900,000.00	Jita
+11961	Huginn	156,000,000.00	Amarr
+11963	Rapier	171,000,000.00	Amarr
+11965	Pilgrim	159,999,899.09	Rens
+11969	Arazu	159,079,679.97	Rens
+11971	Lachesis	161,999,998.86	Amarr
+11978	Scimitar	144,150,100.00	Jita
+11985	Basilisk	185,999,999.00	Amarr
+11987	Guardian	143,697,999.95	Jita
+11989	Oneiros	160,999,999.25	Amarr
+11993	Cerberus	212,499,993.94	Jita
+11995	Onyx	355,598,342.00	Dodixie
+11999	Vagabond	169,999,870.05	Rens
+12003	Zealot	140,999,999.95	Dodixie
+12005	Ishtar	163,799,164.96	Jita
+12011	Eagle	234,985,999.90	Jita
+12013	Broadsword	267,000,000.00	Dodixie
+12015	Muninn	163,899,997.75	Jita
+12017	Devoter	249,999,874.73	Amarr
+12019	Sacrilege	174,300,000.00	Jita
+12021	Phobos	245,799,997.00	Jita
+12023	Deimos	173,989,996.52	Jita
+12032	Manticore	23,999,989.99	Amarr
+12034	Hound	19,999,999.00	Amarr
+12038	Purifier	22,694,981.92	Jita
+12042	Ishkur	22,945,593.99	Jita
+12044	Enyo	22,999,988.99	Jita
+12238	Refining Array	35,499,999.99	Jita
+12239	Medium Intensive Refining Array	61,956,194.15	Jita
+12302	Test Dummies	499,999.99	Jita
+12478	Khumaak	12,000.00	Dodixie
+12542	Guristas Bronze Tag	6,994,000.00	Jita
+12543	Guristas Silver Tag	97,999.99	Rens
+12544	Guristas Gold Tag	69,999.78	Jita
+12545	Guristas Platinum Tag	11,999.99	Rens
+12546	Guristas Crystal Tag	15,993.21	Jita
+12729	Crane	131,989,999.44	Jita
+12731	Bustard	214,300,000.00	Jita
+12733	Prorator	107,389,001.23	Jita
+12735	Prowler	113,795,999.95	Jita
+12743	Viator	115,448,999.00	Amarr
+12745	Occator	182,000,000.00	Jita
+12747	Mastodon	172,000,000.00	Dodixie
+12753	Impel	162,478,000.00	Jita
+12836	Transcranial Microcontrollers	65,000.00	Dodixie
+12865	Quafe Ultra	65.00	Amarr
+12994	Quafe Ultra Special Edition	4,998,581.00	Jita
+13202	Megathron Federate Issue	0.00	Not For Sale
+14358	Zemnar	1,398.00	Jita
+15316	Galeptos Medicine	4,999.00	Rens
+15317	Genetically Enhanced Livestock	20,987.97	Dodixie
+15331	Metal Scraps	1,463.64	Amarr
+15353	Research Tools	6,950,000.00	Jita
+15410	Neophite	149,999,999.00	Jita
+15587	Federation Navy Midshipman Insignia I	2,000.00	Rens
+15588	Federation Navy Midshipman Insignia II	4,999.98	Dodixie
+15589	Federation Navy Midshipman Insignia III	14,276.93	Dodixie
+15590	Federation Navy Sergeant Insignia I	19,500.00	Amarr
+15591	Federation Navy Sergeant Major Insignia I	29,949.99	Amarr
+15592	Federation Navy Fleet Captain Insignia I	375,000.00	Dodixie
+15593	Federation Navy Fleet Major Insignia I	99,950.00	Amarr
+15594	Federation Navy Fleet Colonel Insignia I	2,399,999.00	Amarr
+15646	Federation Navy Command Sergeant Major Insignia I	43,523.99	Dodixie
+15647	Federation Navy Squad Leader Insignia	250,000.00	Jita
+15648	Federation Navy Raid Leader Insignia	18,999,999.98	Jita
+15649	Federation Navy Sergeant Elite Insignia	7,000,900.00	Jita
+15650	Federation Navy Fleet Commander Insignia	2,488,999.94	Jita
+15673	Federation Navy Fleet Colonel Insignia II	749,999.00	Dodixie
+15994	Federation Navy Sergeant Insignia II	25,000.00	Rens
+16002	Federation Navy Sergeant Insignia III	148,999.98	Rens
+16227	Ferox	54,999,997.96	Dodixie
+16229	Brutix	53,989,981.74	Jita
+16231	Cyclone	43,999,999.96	Jita
+16233	Prophecy	56,795,000.00	Dodixie
+16236	Coercer	1,145,997.99	Jita
+16238	Cormorant	1,099,000.00	Rens
+16240	Catalyst	1,199,997.98	Dodixie
+16242	Thrasher	1,049,999.00	Rens
+16262	Clear Icicle	220,000.00	Amarr
+16263	Glacial Mass	250,000.00	Amarr
+16264	Blue Ice	215,999.00	Dodixie
+16265	White Glaze	299,999.99	Amarr
+16266	Glare Crust	599,997.99	Amarr
+16267	Dark Glitter	750,000.00	Dodixie
+16268	Gelidus	825,000.00	Dodixie
+16269	Krystallos	999,999.95	Jita
+16272	Heavy Water	174.44	Jita
+16273	Liquid Ozone	368.83	Jita
+16274	Helium Isotopes	679.99	Amarr
+16275	Strontium Clathrates	5,978.35	Jita
+16633	Hydrocarbons	199.99	Rens
+16634	Atmospheric Gases	167.95	Amarr
+16635	Evaporite Deposits	1,042.74	Jita
+16636	Silicates	921.93	Jita
+16637	Tungsten	588.00	Jita
+16638	Titanium	2,583.99	Jita
+16639	Scandium	2,675.99	Jita
+16640	Cobalt	1,250.00	Amarr
+16641	Chromium	3,094.98	Jita
+16642	Vanadium	2,975.00	Rens
+16643	Cadmium	10,380.00	Jita
+16644	Platinum	2,669.91	Jita
+16646	Mercury	3,494.69	Jita
+16647	Caesium	4,935.98	Jita
+16648	Hafnium	6,051.29	Amarr
+16649	Technetium	8,148.62	Jita
+16650	Dysprosium	66,929.00	Jita
+16651	Neodymium	17,997.81	Amarr
+16652	Promethium	25,691.00	Jita
+16653	Thulium	13,458.98	Amarr
+16654	Titanium Chromide	4,800.00	Dodixie
+16655	Crystallite Alloy	7,179.98	Jita
+16656	Fernite Alloy	4,598.31	Jita
+16657	Rolled Tungsten Alloy	2,498.93	Jita
+16658	Silicon Diborite	2,210.46	Jita
+16659	Carbon Polymers	1,350.00	Amarr
+16660	Ceramic Powder	1,497.95	Jita
+16661	Sulfuric Acid	1,898.95	Jita
+16662	Platinum Technite	7,208.03	Jita
+16663	Caesarium Cadmide	8,850.00	Rens
+16664	Solerium	5,482.92	Jita
+16665	Hexite	4,780.89	Jita
+16666	Hyperflurite	22,298.00	Jita
+16667	Neo Mercurite	12,876.64	Jita
+16668	Dysporite	43,999.99	Amarr
+16669	Ferrofluid	46,387.97	Jita
+16670	Crystalline Carbonide	176.97	Amarr
+16671	Titanium Carbide	206.13	Jita
+16672	Tungsten Carbide	147.98	Amarr
+16673	Fernite Carbide	174.89	Rens
+16678	Sylramic Fibers	325.77	Jita
+16679	Fullerides	745.95	Jita
+16680	Phenolic Composites	1,499.47	Jita
+16681	Nanotransistors	2,552.79	Jita
+16682	Hypersynaptic Fibers	9,299.53	Jita
+16683	Ferrogel	30,559.63	Jita
+16686	Manufacturing Tools	0.00	Not For Sale
+16868	Standard Blue Pill Booster Reaction	248,999.87	Jita
+17136	Ukomi Superconductors	68,100.05	Amarr
+17143	Gallentean Planetary Vehicles	399,997.95	Jita
+17317	Fermionic Condensates	65,691.79	Jita
+17392	Data Chips	143,999.98	Amarr
+17423	Gallente 106 Election Holoreel	2,900,000.00	Rens
+17424	Amarrian Wheat	19,997.00	Jita
+17425	Crimson Arkonor	9,000.00	Amarr
+17426	Prime Arkonor	5,500.00	Rens
+17428	Triclinic Bistot	11,889.92	Jita
+17429	Monoclinic Bistot	0.00	Not For Sale
+17432	Sharp Crokite	5,079.86	Jita
+17433	Crystalline Crokite	0.00	Not For Sale
+17436	Onyx Ochre	3,809.59	Jita
+17437	Obsidian Ochre	10,000.00	Jita
+17440	Vitric Hedbergite	725.00	Jita
+17441	Glazed Hedbergite	854.99	Jita
+17444	Vivid Hemorphite	680.00	Jita
+17445	Radiant Hemorphite	729.99	Jita
+17448	Pure Jaspet	460.00	Jita
+17449	Pristine Jaspet	490.00	Jita
+17452	Luminous Kernite	205.00	Rens
+17453	Fiery Kernite	230.00	Jita
+17455	Azure Plagioclase	64.00	Dodixie
+17456	Rich Plagioclase	64.50	Rens
+17459	Solid Pyroxeres	54.37	Jita
+17460	Viscous Pyroxeres	55.88	Jita
+17463	Condensed Scordite	28.00	Rens
+17464	Massive Scordite	29.70	Amarr
+17466	Bright Spodumain	0.00	Not For Sale
+17467	Gleaming Spodumain	0.00	Not For Sale
+17470	Concentrated Veldspar	17.99	Dodixie
+17471	Dense Veldspar	19.32	Amarr
+17476	Covetor	31,099,994.98	Dodixie
+17478	Retriever	27,999,981.00	Amarr
+17480	Procurer	22,900,000.03	Jita
+17643	Caldari AZ-1 Nexus Chip	6,798,999.00	Jita
+17646	Caldari CU-1 Nexus Chip	2,497,999.98	Jita
+17647	Caldari BY-1 Nexus Chip	691,000.00	Amarr
+17715	Gila	204,200,163.99	Jita
+17718	Phantasm	140,000,000.00	Rens
+17720	Cynabal	129,999,997.40	Rens
+17722	Vigilant	189,799,999.00	Jita
+17736	Nightmare	347,972,988.75	Amarr
+17738	Machariel	428,391,571.00	Amarr
+17740	Vindicator	524,500,096.47	Jita
+17769	Fluxed Condensates	17,999.93	Jita
+17793	Amarr TIL-1 Nexus Chip	7,999,900.00	Jita
+17794	Amarr KIU-1 Nexus Chip	3,499,998.98	Amarr
+17795	Amarr MIY-1 Nexus Chip	999,000.00	Amarr
+17814	Minmatar UUC Nexus Chip	6,000,000.00	Jita
+17815	Minmatar UUA Nexus Chip	649,998.90	Jita
+17816	Minmatar UUB Nexus Chip	3,000,000.05	Amarr
+17848	Gallente Gamma Nexus Chip	600,000.00	Dodixie
+17849	Gallente Beta Nexus Chip	2,799,999.99	Rens
+17850	Gallente Alpha Nexus Chip	6,176,000.12	Jita
+17865	Iridescent Gneiss	1,499.00	Amarr
+17866	Prismatic Gneiss	12,999.99	Jita
+17867	Silvery Omber	100.00	Jita
+17868	Golden Omber	107.99	Jita
+17869	Magma Mercoxit	182,517.76	Rens
+17870	Vitreous Mercoxit	224,999.99	Jita
+17887	Oxygen Isotopes	697.93	Dodixie
+17888	Nitrogen Isotopes	939.97	Dodixie
+17889	Hydrogen Isotopes	794.48	Rens
+17893	High-Tech Data Chip	610.49	Amarr
+17894	High-Tech Scanner	10.00	Rens
+17895	High-Tech Manufacturing Tools	451.03	Rens
+17897	High-Tech Small Arms	243.97	Amarr
+17898	High-Tech Transmitters	135,003.03	Amarr
+17918	Rattlesnake	362,799,999.99	Jita
+17920	Bhaalgorn	368,543,990.96	Jita
+17922	Ashimmu	106,999,999.99	Dodixie
+17924	Succubus	49,999,993.00	Amarr
+17926	Cruor	36,499,884.76	Jita
+17928	Daredevil	52,005,999.45	Dodixie
+17930	Worm	54,000,000.00	Dodixie
+17932	Dramiel	38,098,949.95	Jita
+17941	Caesarium Cadmide Reaction	699,999.93	Jita
+17942	Carbon Polymers Reaction	881,000.00	Jita
+17943	Ceramic Powder Reaction	899,994.92	Jita
+17944	Crystallite Alloy Reaction	879,997.99	Jita
+17945	Dysporite Reaction	1,050,250.00	Rens
+17946	Fernite Alloy Reaction	500,000.00	Jita
+17947	Ferrofluid Reaction	1,000,000.00	Rens
+17948	Fluxed Condensates Reaction	1,000,000.00	Rens
+17949	Hexite Reaction	849,999.99	Jita
+17950	Hyperflurite Reaction	1,000,000.00	Rens
+17951	Neo Mercurite Reaction	499,999.96	Jita
+17952	Platinum Technite Reaction	699,999.99	Jita
+17953	Rolled Tungsten Alloy Reaction	780,500.00	Jita
+17954	Silicon Diborite Reaction	600,000.00	Jita
+17955	Solerium Reaction	880,000.00	Jita
+17956	Sulfuric Acid Reaction	879,999.99	Jita
+17957	Titanium Chromide Reaction	800,000.00	Amarr
+17958	Vanadium Hafnite Reaction	879,999.98	Jita
+17959	Vanadium Hafnite	5,950.00	Jita
+17960	Prometium	27,998.79	Amarr
+17961	Prometium Reaction	878,998.99	Jita
+17962	Titanium Carbide Reaction	3,880,002.10	Jita
+17963	Crystalline Carbonide Reaction	2,999,999.44	Jita
+17964	Fernite Carbide Reaction	4,000,000.00	Jita
+17965	Tungsten Carbide Reaction	4,444,998.99	Jita
+17966	Sylramic Fibers Reaction	4,500,000.00	Jita
+17967	Fulleride Reaction	4,000,000.00	Jita
+17968	Phenolic Composites Reaction	4,488,999.11	Jita
+17969	Nanotransistors Reaction	2,999,999.96	Jita
+17970	Hypersynaptic Fibers Reaction	2,999,989.94	Jita
+17971	Ferrogel Reaction	2,999,986.70	Jita
+17972	Fermionic Condensates Reaction	4,499,999.98	Jita
+17975	Thick Blue Ice	299,899.84	Jita
+17976	Pristine White Glaze	358,999.93	Jita
+17977	Smooth Glacial Mass	350,000.00	Jita
+17978	Enriched Clear Icicle	300,000.00	Amarr
+19398	Confiscated Viral Agent	300,000.00	Jita
+19470	Intensive Refining Array	86,599,995.34	Jita
+19720	Revelation	0.00	Not For Sale
+19722	Naglfar	0.00	Not For Sale
+19724	Moros	0.00	Not For Sale
+19726	Phoenix	0.00	Not For Sale
+19744	Sigil	469,000.00	Rens
+20110	Sleeper Foundation Block	2,270,000.00	Dodixie
+20114	Datacore - Propulsion Subsystems Engineering	2,500.00	Dodixie
+20115	Datacore - Engineering Subsystems Engineering	7,999.96	Rens
+20116	Datacore - Electronic Subsystems Engineering	4,578.42	Amarr
+20125	Curse	169,950,000.00	Dodixie
+20171	Datacore - Hydromagnetic Physics	117,400.00	Rens
+20172	Datacore - Minmatar Starship Engineering	109,999.99	Rens
+20183	Providence	1,352,899,991.70	Jita
+20185	Charon	1,474,999,999.99	Jita
+20187	Obelisk	1,370,000,000.00	Amarr
+20189	Fenrir	1,332,900,998.08	Jita
+20410	Datacore - Gallentean Starship Engineering	89,998.00	Jita
+20411	Datacore - High Energy Physics	87,998.77	Jita
+20412	Datacore - Plasma Physics	88,519.99	Dodixie
+20413	Datacore - Laser Physics	83,386.97	Jita
+20414	Datacore - Quantum Physics	108,302.00	Jita
+20415	Datacore - Molecular Engineering	113,555.59	Jita
+20416	Datacore - Nanite Engineering	84,005.05	Amarr
+20417	Datacore - Electromagnetic Physics	88,257.12	Jita
+20418	Datacore - Electronic Engineering	89,998.91	Dodixie
+20419	Datacore - Graviton Physics	107,998.00	Jita
+20420	Datacore - Rocket Science	109,999.99	Jita
+20421	Datacore - Amarrian Starship Engineering	61,287.89	Amarr
+20423	Datacore - Nuclear Physics	117,999.99	Amarr
+20424	Datacore - Mechanical Engineering	53,707.70	Jita
+20425	Datacore - Offensive Subsystems Engineering	4,798.99	Amarr
+21009	Capital Propulsion Engine	8,314,998.18	Jita
+21011	Capital Turret Hardpoint	22,999,989.78	Jita
+21013	Capital Sensor Cluster	8,249,999.88	Jita
+21017	Capital Armor Plates	6,999,999.90	Jita
+21019	Capital Capacitor Battery	7,279,999.98	Jita
+21021	Capital Power Generator	10,196,997.90	Jita
+21023	Capital Shield Emitter	9,299,994.99	Jita
+21025	Capital Jump Drive	14,425,999.94	Jita
+21027	Capital Cargo Bay	8,599,958.89	Jita
+21029	Capital Drone Bay	7,499,000.00	Dodixie
+21035	Capital Computer System	7,199,999.65	Jita
+21037	Capital Construction Parts	8,240,993.00	Amarr
+21039	Capital Siege Array	11,999,999.99	Jita
+21041	Capital Launcher Hardpoint	8,999,499.68	Jita
+21073	Sleeper Split Cables	44,994.40	Jita
+21074	Talocan Sketch Books	2,100,000.00	Jita
+21075	Talocan Molecule Binder	9,999.99	Amarr
+21076	Talocan Stasis Inverter	280,006.00	Jita
+21077	Talocan Info Shards	34,949.99	Jita
+21078	Talocan Reflective Sheets	300,000.00	Amarr
+21079	Talocan Perpetual Clock	11,497.99	Amarr
+21080	Talocan Solid Atomizer	450,000.00	Dodixie
+21081	Talocan Mechanical Gears	128,641.37	Rens
+21082	Talocan System Interface Unit	632,499.00	Dodixie
+21084	Talocan Mathematical Schematics	422,000.00	Amarr
+21085	Talocan Automation Accounts	170,000.00	Dodixie
+21086	Talocan Partition Plates	289,999.96	Amarr
+21087	Talocan Intricate Formulas	1.00	Rens
+21088	Talocan Stasis Deflector	14,000,000.00	Dodixie
+21089	Talocan Ignition Device	94,999.99	Jita
+21568	Sleeper Data Interface Protocol	190,000.00	Dodixie
+21569	Sleeper Profound Research Notes	81,000,002.02	Dodixie
+21570	Sleeper Manuscripts	649,998.00	Jita
+21571	Sleeper Technical Schematics	66,665.00	Jita
+21572	Sleeper Data Crystals	155,021.00	Jita
+21584	Sleeper Micro Circuits	380,000.00	Rens
+21585	Sleeper Cryo Batteries	199,999.00	Dodixie
+21586	Sleeper Virtual Energizer	425,999.95	Dodixie
+21587	Electronic Link	44.00	Dodixie
+21588	Spare Parts	0.64	Rens
+21589	Power Couplings	0.66	Rens
+21590	Armor Blocks	51.68	Dodixie
+21591	Computer Chips	1.00	Rens
+21592	Electric Conduit	28.99	Rens
+21593	Mechanic Parts	50.00	Rens
+21594	Energy Cells	85.00	Rens
+21595	Construction Alloy	40.71	Jita
+21596	Data Processor	100.00	Rens
+21719	Sleeper Hyperbooster	9,489,988.00	Amarr
+21720	Sleeper Thermal Regulator	2,222,221.00	Jita
+21721	Sleeper Heat Nullifying Coil	164,000.00	Rens
+21722	Sleeper Nanite Cluster	4,098,997.94	Dodixie
+21723	Sleeper Reintegration Control	860,011.15	Dodixie
+21724	Guristas Heavy Weapon Console	2,750,001.00	Amarr
+21725	Guristas Medium Weapon Console	2,000,000.00	Dodixie
+21726	Guristas Light Weapon Console	744,999.00	Amarr
+21727	Guristas Gravity Focuser	500,000.00	Dodixie
+21728	Guristas Graviton Hardening	199,999.99	Amarr
+21729	Angel Advanced Trigger Mechanism	120,998.98	Amarr
+21730	Angel Standard Trigger Mechanism	300,000.00	Jita
+21731	Angel Simple Trigger Mechanism	460,000.00	Rens
+21732	Angel Spatial Analyzer	870,024.00	Amarr
+21733	Angel Dynamic Calibrator	17,000,000.00	Amarr
+22428	Redeemer	898,699,999.96	Jita
+22430	Sin	909,978,999.99	Amarr
+22436	Widow	1,018,899,998.99	Jita
+22440	Panther	894,996,899.98	Amarr
+22442	Eos	330,870,999.00	Jita
+22444	Sleipnir	310,989,998.98	Jita
+22446	Vulture	336,778,888.88	Jita
+22448	Absolution	300,999,999.95	Jita
+22452	Heretic	43,434,342.92	Amarr
+22456	Sabre	49,499,999.88	Amarr
+22460	Eris	45,670,274.96	Dodixie
+22464	Flycatcher	61,996,992.95	Jita
+22466	Astarte	389,894,999.98	Jita
+22468	Claymore	322,240,000.02	Jita
+22470	Nighthawk	276,999,999.98	Jita
+22474	Damnation	302,999,998.00	Jita
+22544	Hulk	224,995,000.00	Jita
+22546	Skiff	170,999,000.04	Jita
+22548	Mackinaw	194,555,554.99	Amarr
+23128	Yan Jung Crystal Cylinder	6,999,999.99	Dodixie
+23129	Yan Jung Paradox Box	280,711.00	Jita
+23130	Yan Jung Thunder Kite	590,000.00	Dodixie
+23131	Yan Jung Void Machine	48,999.99	Dodixie
+23132	Yan Jung Tachyon Stetoscope	38,950,003.04	Jita
+23133	Takmahl Phrenic Appendix	475,000.00	Amarr
+23134	Takmahl Dynamic Gauge	7,999,999.00	Dodixie
+23135	Takmahl Gyro Ballast	19,749.99	Amarr
+23136	Takmahl Biodroid Controller	100,000.00	Dodixie
+23137	Takmahl Quantum Sphere	12,665,279.57	Jita
+23138	Yan Jung Null Shell	1,499,099.00	Dodixie
+23139	Yan Jung Glass Scale	1,110,664.00	Jita
+23140	Yan Jung Plenary Wire	60,000.00	Dodixie
+23141	Yan Jung Silk Armor	22,222.00	Dodixie
+23142	Yan Jung Nano Fabric	21,999.94	Dodixie
+23143	Takmahl Diamond Rod	19,900.00	Rens
+23144	Takmahl Cohere Cord	39,999.98	Jita
+23145	Takmahl Solid Mox	100,000.00	Rens
+23146	Takmahl Magnetic Slab	40,000.00	Rens
+23147	Takmahl Tri-polished Lens	190,000.00	Amarr
+23148	Blood Raider Limited Ballistic Control	99,999.95	Dodixie
+23149	Blood Raider Regular Ballistic Control	10,997,776.98	Jita
+23150	Blood Raider Extreme Ballistic Control	2,700,000.00	Rens
+23151	Blood Raider Weapon Integration Unit	150,000.00	Amarr
+23152	Blood Raider Power Redistributor	17,000,000.00	Dodixie
+23153	Serpentis Plain Target Guider	183,998.00	Dodixie
+23154	Serpentis Basic Target Guider	9,400,000.00	Dodixie
+23155	Serpentis Complex Target Guider	595,000.00	Dodixie
+23156	Serpentis 3D Scanner Gamut	4,175,002.00	Rens
+23157	Serpentis Multi-tasking Processor	2,998,998.91	Jita
+23158	Positron Cord	43.98	Amarr
+23159	Auxiliary Parts	32.46	Amarr
+23160	Force Cable	10.00	Dodixie
+23161	Elemental Crux	34.00	Rens
+23162	Analog Panel	80.99	Amarr
+23163	Current Amplifier	28.50	Dodixie
+23164	Second-hand Parts	35.99	Dodixie
+23165	Heat Depressor	19.00	Rens
+23166	Internal Bulkhead	54.64	Jita
+23167	Mainframe Bit	45.10	Jita
+23168	Yan Jung Info Matrix	262,000.00	Jita
+23169	Yan Jung Vellum Etch	79,999.99	Dodixie
+23170	Yan Jung Trigonometric Laws	29,996.00	Dodixie
+23171	Yan Jung Semiotic Theory	199,000.00	Jita
+23172	Yan Jung Singularity Fact Sheet	25,549,999.98	Dodixie
+23173	Takmahl Binary Texts	26,999.99	Jita
+23174	Takmahl Fractal Sheet	2,600,000.00	Rens
+23175	Takmahl Centrifugal Primer	80,000.00	Dodixie
+23176	Takmahl Geometric Design	200,000.00	Amarr
+23177	Takmahl Astral Treatment	7,449,998.98	Jita
+23757	Archon	0.00	Not For Sale
+23911	Thanatos	0.00	Not For Sale
+23915	Chimera	0.00	Not For Sale
+23917	Wyvern	0.00	Not For Sale
+24483	Nidhoggur	0.00	Not For Sale
+24545	Capital Jump Bridge Array	10,499,999.97	Jita
+24547	Capital Clone Vat Bay	12,500,000.00	Jita
+24556	Capital Doomsday Weapon Mount	250,000,000.00	Jita
+24558	Capital Ship Maintenance Bay	13,450,000.00	Rens
+24560	Capital Corporate Hangar Bay	9,499,984.69	Jita
+24688	Rokh	216,758,789.87	Amarr
+24690	Hyperion	224,999,999.93	Jita
+24692	Abaddon	208,599,887.73	Rens
+24694	Maelstrom	189,899,997.00	Amarr
+24696	Harbinger	56,000,000.00	Dodixie
+24698	Drake	53,699,999.92	Amarr
+24700	Myrmidon	54,990,000.00	Dodixie
+24702	Hurricane	52,199,998.84	Jita
+25240	Improved Blue Pill Booster Reaction	96,999.00	Jita
+25243	Standard Crash Booster Reaction	500,000.00	Jita
+25251	Standard Frentix Booster Reaction	450,000.00	Jita
+25268	Amber Cytoserocin	74,999.48	Jita
+25273	Golden Cytoserocin	54,999.96	Jita
+25274	Viridian Cytoserocin	77,997.89	Dodixie
+25275	Celadon Cytoserocin	81,999.00	Jita
+25276	Malachite Cytoserocin	72,897.88	Amarr
+25277	Lime Cytoserocin	82,999.99	Jita
+25278	Vermillion Cytoserocin	71,999.00	Dodixie
+25279	Azure Cytoserocin	48,999.99	Rens
+25282	Strong Blue Pill Booster Reaction	27,999,999.99	Jita
+25284	Standard Drop Booster Reaction	845,995.89	Jita
+25285	Standard Exile Booster Reaction	129,998.94	Jita
+25286	Standard Mindflood Booster Reaction	988,999.99	Jita
+25287	Standard X-Instinct Booster Reaction	756,889.87	Jita
+25288	Standard Sooth Sayer Booster Reaction	999,000.00	Jita
+25289	Improved Crash Booster Reaction	7,699,999.93	Jita
+25290	Improved Drop Booster Reaction	3,899,986.97	Jita
+25291	Improved Exile Booster Reaction	3,999,999.00	Amarr
+25292	Improved Mindflood Booster Reaction	9,800,999.00	Amarr
+25293	Improved Frentix Booster Reaction	7,999,986.97	Jita
+25294	Improved X-Instinct Booster Reaction	12,000,000.00	Jita
+25295	Improved Sooth Sayer Booster Reaction	5,300,999.97	Jita
+25296	Strong Crash Booster Reaction	90,000,000.00	Jita
+25297	Strong Drop Booster Reaction	20,000,000.00	Jita
+25298	Strong Exile Booster Reaction	87,499,999.00	Rens
+25299	Strong Mindflood Booster Reaction	399,999,999.99	Jita
+25300	Strong Frentix Booster Reaction	144,999,999.65	Jita
+25301	Strong X-Instinct Booster Reaction	200,000,000.00	Jita
+25302	Strong Sooth Sayer Booster Reaction	83,998,999.97	Jita
+25588	Scorched Telemetry Processor	1,399.99	Rens
+25589	Malfunctioning Shield Emitter	1,197.28	Rens
+25590	Contaminated Nanite Compound	6,890.00	Amarr
+25591	Contaminated Lorentz Fluid	1,400.00	Rens
+25592	Defective Current Pump	625.00	Jita
+25593	Smashed Trigger Unit	498.99	Dodixie
+25594	Tangled Power Conduit	1,500.01	Jita
+25595	Alloyed Tritanium Bar	27,799.99	Jita
+25596	Broken Drone Transceiver	1,079.00	Rens
+25597	Damaged Artificial Neural Network	598.99	Rens
+25598	Tripped Power Circuit	21,249.00	Amarr
+25599	Charred Micro Circuit	429.99	Amarr
+25600	Burned Logic Circuit	49,419.00	Amarr
+25601	Fried Interface Circuit	3,961.99	Amarr
+25602	Thruster Console	1,349.00	Jita
+25603	Melted Capacitor Console	8,900.01	Amarr
+25604	Conductive Polymer	1,250.92	Dodixie
+25605	Armor Plates	86,658.97	Jita
+25606	Ward Console	9,009.00	Jita
+25607	Telemetry Processor	77,506.50	Jita
+25608	Intact Shield Emitter	445,000.00	Rens
+25609	Nanite Compound	395,000.00	Rens
+25610	Lorentz Fluid	114,899.99	Dodixie
+25611	Current Pump	25,000.00	Rens
+25612	Trigger Unit	48,090.99	Rens
+25613	Power Conduit	199,999.99	Dodixie
+25614	Single-crystal Superalloy I-beam	489,000.00	Rens
+25615	Drone Transceiver	70,003.00	Dodixie
+25616	Artificial Neural Network	10,000.00	Dodixie
+25617	Power Circuit	729,002.07	Amarr
+25618	Micro Circuit	39,005.25	Dodixie
+25619	Logic Circuit	689,999.96	Rens
+25620	Interface Circuit	169,947.00	Jita
+25621	Impetus Console	109,999.98	Dodixie
+25622	Capacitor Console	1,785,698.00	Amarr
+25623	Conductive Thermoplastic	50,000.00	Rens
+25624	Intact Armor Plates	4,120,197.99	Amarr
+25625	Enhanced Ward Console	4,168,998.00	Amarr
+25887	Datacore - Caldari Starship Engineering	112,797.95	Jita
+26840	Raven State Issue	0.00	Not For Sale
+26842	Tempest Tribal Issue	0.00	Not For Sale
+27939	Gallente Basic Outpost Factory Platform	0.00	Not For Sale
+27967	Gallente Outpost Factory Platform	0.00	Not For Sale
+27969	Gallente Advanced Outpost Factory Platform	0.00	Not For Sale
+27975	Gallente Outpost Plant Platform	0.00	Not For Sale
+27977	Gallente Advanced Outpost Plant Platform	0.00	Not For Sale
+27983	Gallente Basic Outpost Plant Platform	0.00	Not For Sale
+28005	Gallente Basic Outpost Laboratory Platform	0.00	Not For Sale
+28007	Gallente Outpost Laboratory Platform	0.00	Not For Sale
+28009	Gallente Advanced Outpost Laboratory Platform	0.00	Not For Sale
+28029	Gallente Basic Outpost Refinery Platform	800,000,000.00	Jita
+28031	Gallente Outpost Refinery Platform	0.00	Not For Sale
+28033	Gallente Advanced Outpost Refinery Platform	0.00	Not For Sale
+28053	Gallente Basic Outpost Office Platform	0.00	Not For Sale
+28055	Gallente Outpost Office Platform	0.00	Not For Sale
+28057	Gallente Advanced Outpost Office Platform	0.00	Not For Sale
+28236	Federation Navy Fleet Rear-Admiral Insignia	5,498,999.97	Jita
+28352	Rorqual	0.00	Not For Sale
+28361	Drone Synaptic Relay Wiring	148.00	Rens
+28362	Drone Capillary Fluid	999.98	Rens
+28363	Drone Cerebral Fragment	86,997.94	Jita
+28364	Drone Tactical Limb	23,290.00	Jita
+28365	Drone Epidermal Shielding Chunk	1,648.00	Jita
+28366	Drone Coronary Unit	7,420.00	Jita
+28367	Compressed Arkonor	438,000.00	Dodixie
+28385	Compressed Crimson Arkonor	440,000.00	Dodixie
+28387	Compressed Prime Arkonor	524,999.93	Jita
+28388	Compressed Bistot	487,998.91	Jita
+28389	Compressed Monoclinic Bistot	569,999.99	Jita
+28390	Compressed Triclinic Bistot	524,899.98	Jita
+28391	Compressed Crokite	427,997.88	Jita
+28392	Compressed Crystalline Crokite	480,000.00	Jita
+28393	Compressed Sharp Crokite	454,999.68	Jita
+28394	Compressed Dark Ochre	183,999.89	Jita
+28395	Compressed Obsidian Ochre	219,999.99	Jita
+28396	Compressed Onyx Ochre	199,784.21	Jita
+28397	Compressed Gneiss	144,779.56	Jita
+28398	Compressed Iridescent Gneiss	146,926.73	Jita
+28399	Compressed Prismatic Gneiss	168,989.96	Jita
+28400	Compressed Glazed Hedbergite	87,999.97	Jita
+28401	Compressed Hedbergite	70,000.00	Jita
+28402	Compressed Vitric Hedbergite	79,999.94	Dodixie
+28403	Compressed Hemorphite	67,305.36	Amarr
+28404	Compressed Radiant Hemorphite	75,499.99	Amarr
+28405	Compressed Vivid Hemorphite	80,000.00	Dodixie
+28406	Compressed Jaspet	50,000.00	Rens
+28407	Compressed Pristine Jaspet	52,500.00	Rens
+28408	Compressed Pure Jaspet	48,000.00	Amarr
+28409	Compressed Fiery Kernite	24,419.10	Amarr
+28410	Compressed Kernite	20,307.80	Amarr
+28411	Compressed Luminous Kernite	21,873.42	Amarr
+28412	Compressed Magma Mercoxit	2,169,999.99	Jita
+28413	Compressed Mercoxit	2,010,999.98	Jita
+28414	Compressed Vitreous Mercoxit	2,280,000.00	Jita
+28415	Compressed Golden Omber	11,000.00	Jita
+28416	Compressed Omber	9,300.00	Dodixie
+28417	Compressed Silvery Omber	10,640.00	Amarr
+28418	Compressed Bright Spodumain	492,997.96	Jita
+28419	Compressed Gleaming Spodumain	450,000.00	Amarr
+28420	Compressed Spodumain	460,000.00	Rens
+28421	Compressed Azure Plagioclase	6,800.00	Dodixie
+28422	Compressed Plagioclase	6,899.99	Jita
+28423	Compressed Rich Plagioclase	7,200.00	Jita
+28424	Compressed Pyroxeres	5,409.98	Amarr
+28425	Compressed Solid Pyroxeres	5,360.14	Amarr
+28426	Compressed Viscous Pyroxeres	5,500.00	Amarr
+28427	Compressed Condensed Scordite	2,916.02	Amarr
+28428	Compressed Massive Scordite	3,073.62	Amarr
+28429	Compressed Scordite	2,802.07	Amarr
+28430	Compressed Concentrated Veldspar	1,789.00	Amarr
+28431	Compressed Dense Veldspar	1,960.22	Amarr
+28432	Compressed Veldspar	1,919.00	Amarr
+28433	Compressed Blue Ice	228,000.00	Dodixie
+28434	Compressed Clear Icicle	238,995.34	Jita
+28435	Compressed Dark Glitter	700,000.00	Jita
+28436	Compressed Enriched Clear Icicle	260,004.00	Jita
+28437	Compressed Gelidus	689,998.99	Jita
+28438	Compressed Glacial Mass	271,999.99	Jita
+28439	Compressed Glare Crust	499,000.00	Rens
+28440	Compressed Krystallos	999,999.99	Jita
+28441	Compressed Pristine White Glaze	367,990.96	Jita
+28442	Compressed Smooth Glacial Mass	324,998.97	Jita
+28443	Compressed Thick Blue Ice	295,000.00	Dodixie
+28444	Compressed White Glaze	300,000.00	Jita
+28606	Orca	689,998,998.01	Amarr
+28659	Paladin	1,144,999,998.99	Jita
+28661	Kronos	1,127,499,699.00	Amarr
+28665	Vargur	1,058,989,991.03	Amarr
+28694	Amber Mykoserocin	1,999.99	Jita
+28695	Azure Mykoserocin	2,200.00	Rens
+28696	Celadon Mykoserocin	11,000.00	Amarr
+28697	Golden Mykoserocin	3,399.98	Jita
+28698	Lime Mykoserocin	6,500.00	Rens
+28699	Malachite Mykoserocin	27,000.00	Jita
+28700	Vermillion Mykoserocin	4,998.93	Rens
+28701	Viridian Mykoserocin	11,000.00	Dodixie
+28702	Synth Blue Pill Booster Reaction	99,999.89	Jita
+28703	Synth Crash Booster Reaction	74,999.96	Jita
+28704	Synth Drop Booster Reaction	48,999.99	Jita
+28705	Synth Exile Booster Reaction	829,000.00	Jita
+28706	Synth Frentix Booster Reaction	99,000.00	Amarr
+28707	Synth Mindflood Booster Reaction	449,999.99	Jita
+28708	Synth Sooth Sayer Booster Reaction	22,998.99	Jita
+28709	Synth X-Instinct Booster Reaction	500,000.00	Jita
+28710	Golem	1,367,999,965.00	Jita
+28844	Rhea	7,850,000,000.00	Jita
+28846	Nomad	7,339,990,598.21	Jita
+28848	Anshar	8,299,999,999.98	Jita
+28850	Ark	7,190,873,910.00	Jita
+28974	Vaccines	98,000.00	Jita
+29039	Capital Antimatter Reactor Unit	1,500,000.00	Amarr
+29041	Capital Crystalline Carbonide Armor Plate	1,300,000.00	Amarr
+29043	Capital Deflection Shield Emitter	339,200.00	Amarr
+29045	Capital Electrolytic Capacitor Unit	1,478,001.98	Jita
+29047	Capital EM Pulse Generator	460,001.83	Jita
+29049	Capital Fernite Carbide Composite Armor Plate	700,000.00	Jita
+29051	Capital Fusion Reactor Unit	0.00	Not For Sale
+29053	Capital Fusion Thruster	330,000.00	Jita
+29055	Capital Gravimetric Sensor Cluster	1,499,999.00	Amarr
+29057	Capital Graviton Pulse Generator	486,000.00	Jita
+29059	Capital Graviton Reactor Unit	1,327,995.00	Jita
+29061	Capital Ion Thruster	749,998.00	Jita
+29063	Capital Laser Focusing Crystals	43,360,000.00	Rens
+29065	Capital Ladar Sensor Cluster	1,500,000.00	Amarr
+29067	Capital Linear Shield Emitter	0.00	Not For Sale
+29069	Capital Magnetometric Sensor Cluster	499,999.00	Jita
+29071	Capital Magpulse Thruster	599,000.00	Jita
+29073	Capital Nanoelectrical Microprocessor	1,299,999.95	Jita
+29075	Capital Nanomechanical Microprocessor	999,998.74	Jita
+29077	Capital Nuclear Pulse Generator	399,997.00	Jita
+29079	Capital Nuclear Reactor Unit	1,399,999.95	Jita
+29081	Capital Oscillator Capacitor Unit	1,599,999.75	Jita
+29083	Capital Particle Accelerator Unit	6,999,978.99	Jita
+29085	Capital Photon Microprocessor	1,500,000.00	Jita
+29087	Capital Plasma Pulse Generator	2,999,984.99	Jita
+29089	Capital Plasma Thruster	5,000,000.00	Jita
+29091	Capital Pulse Shield Emitter	962,365.76	Jita
+29093	Capital Quantum Microprocessor	946,998.75	Jita
+29095	Capital Radar Sensor Cluster	1,500,000.00	Amarr
+29097	Capital Scalar Capacitor Unit	2,999,989.45	Jita
+29099	Capital Superconductor Rails	917,250.28	Jita
+29101	Capital Sustained Shield Emitter	886,399.91	Jita
+29103	Capital Tesseract Capacitor Unit	1,170,000.00	Amarr
+29105	Capital Thermonuclear Trigger Unit	0.00	Not For Sale
+29107	Capital Titanium Diborite Armor Plate	1,397,999.99	Jita
+29109	Capital Tungsten Carbide Armor Plate	1,039,497.67	Jita
+29248	Magnate	375,000.00	Dodixie
+29266	Apotheosis	10,999,999.00	Jita
+29640	Unrefined Hyperflurite Reaction	4,898,999.00	Jita
+29641	Unrefined Ferrofluid Reaction	800,000.00	Jita
+29642	Unrefined Prometium Reaction	899,999.00	Dodixie
+29643	Unrefined Neo Mercurite Reaction	197,997.00	Jita
+29644	Unrefined Dysporite Reaction	699,999.99	Jita
+29645	Unrefined Fluxed Condensates Reaction	659,998.98	Jita
+29659	Unrefined Fluxed Condensates	739,999.99	Jita
+29660	Unrefined Dysporite	1,499,999.00	Amarr
+29661	Unrefined Neo Mercurite	1,999,898.01	Jita
+29662	Unrefined Prometium	2,299,999.91	Jita
+29663	Unrefined Ferrofluid	2,500,000.86	Jita
+29664	Unrefined Hyperflurite	0.00	Not For Sale
+29964	Legion Defensive - Adaptive Augmenter	35,100,102.00	Dodixie
+29965	Legion Defensive - Nanobot Injector	43,329,668.00	Jita
+29966	Legion Defensive - Augmented Plating	43,329,669.33	Jita
+29967	Legion Defensive - Warfare Processor	40,990,000.00	Dodixie
+29969	Tengu Defensive - Adaptive Shielding	45,674,526.95	Amarr
+29970	Tengu Defensive - Amplification Node	43,329,669.31	Jita
+29971	Tengu Defensive - Supplemental Screening	43,299,999.93	Jita
+29972	Tengu Defensive - Warfare Processor	43,329,669.30	Jita
+29974	Loki Defensive - Adaptive Shielding	40,999,997.99	Amarr
+29975	Loki Defensive - Adaptive Augmenter	42,999,999.00	Jita
+29976	Loki Defensive - Amplification Node	37,999,060.96	Jita
+29977	Loki Defensive - Warfare Processor	42,970,000.00	Amarr
+29979	Proteus Defensive - Adaptive Augmenter	43,329,669.32	Jita
+29980	Proteus Defensive - Nanobot Injector	43,309,995.50	Amarr
+29981	Proteus Defensive - Augmented Plating	43,329,575.61	Jita
+29982	Proteus Defensive - Warfare Processor	43,329,668.98	Jita
+29984	Tengu	157,879,999.00	Dodixie
+29986	Legion	161,999,999.00	Dodixie
+29988	Proteus	162,290,014.20	Jita
+29990	Loki	154,996,996.83	Jita
+29992	Optimized Nano-engines	850,094.00	Jita
+29994	Warfare Computation Core	995,000.00	Dodixie
+29996	Emergent Neurovisual Interface	30,000,000.00	Amarr
+30002	Fullerene Intercalated Sheets	8,299,639.00	Jita
+30008	Reinforced Metallofullerene Alloys	888,997.97	Amarr
+30018	Fused Nanomechanical Engines	16,989.98	Amarr
+30019	Powdered C-540 Graphite	3,200.00	Dodixie
+30021	Modified Fluid Router	44,999.00	Dodixie
+30022	Heuristic Selfassemblers	40,000.00	Rens
+30024	Cartesian Temporal Coordinator	9,244.99	Amarr
+30036	Legion Electronics - Energy Parasitic Complex	40,795,918.08	Jita
+30038	Legion Electronics - Tactical Targeting Network	41,453,594.29	Jita
+30040	Legion Electronics - Dissolution Sequencer	39,999,898.95	Jita
+30042	Legion Electronics - Emergent Locus Analyzer	39,819,993.89	Amarr
+30046	Tengu Electronics - Obfuscation Manifold	27,799,920.98	Jita
+30048	Tengu Electronics - CPU Efficiency Gate	41,453,594.25	Jita
+30050	Tengu Electronics - Dissolution Sequencer	40,998,999.97	Jita
+30052	Tengu Electronics - Emergent Locus Analyzer	41,453,594.29	Jita
+30056	Proteus Electronics - Friction Extension Processor	41,453,594.28	Jita
+30058	Proteus Electronics - CPU Efficiency Gate	41,453,591.90	Jita
+30060	Proteus Electronics - Dissolution Sequencer	43,646,599.08	Jita
+30062	Proteus Electronics - Emergent Locus Analyzer	41,453,594.28	Jita
+30066	Loki Electronics - Immobility Drivers	40,899,997.00	Jita
+30068	Loki Electronics - Tactical Targeting Network	41,000,000.00	Jita
+30070	Loki Electronics - Dissolution Sequencer	40,449,000.00	Jita
+30072	Loki Electronics - Emergent Locus Analyzer	37,992,977.40	Amarr
+30076	Legion Propulsion - Chassis Optimization	40,556,457.59	Jita
+30078	Legion Propulsion - Fuel Catalyst	40,556,457.67	Jita
+30080	Legion Propulsion - Wake Limiter	40,555,996.70	Jita
+30082	Legion Propulsion - Interdiction Nullifier	39,969,999.99	Rens
+30086	Tengu Propulsion - Intercalated Nanofibers	30,002,920.70	Amarr
+30088	Tengu Propulsion - Gravitational Capacitor	40,556,457.68	Jita
+30090	Tengu Propulsion - Fuel Catalyst	38,882,000.11	Jita
+30092	Tengu Propulsion - Interdiction Nullifier	40,556,457.69	Jita
+30096	Proteus Propulsion - Wake Limiter	26,999,625.99	Jita
+30098	Proteus Propulsion - Localized Injectors	40,556,457.69	Jita
+30100	Proteus Propulsion - Gravitational Capacitor	40,556,457.70	Jita
+30102	Proteus Propulsion - Interdiction Nullifier	40,556,457.70	Jita
+30106	Loki Propulsion - Chassis Optimization	38,999,976.98	Rens
+30108	Loki Propulsion - Intercalated Nanofibers	40,000,000.00	Jita
+30110	Loki Propulsion - Fuel Catalyst	38,999,999.98	Dodixie
+30112	Loki Propulsion - Interdiction Nullifier	38,919,768.95	Amarr
+30117	Legion Offensive - Drone Synthesis Projector	42,008,005.56	Jita
+30118	Legion Offensive - Assault Optimization	43,124,663.00	Jita
+30119	Legion Offensive - Liquid Crystal Magnifiers	42,999,999.98	Jita
+30120	Legion Offensive - Covert Reconfiguration	43,446,896.99	Jita
+30122	Tengu Offensive - Accelerated Ejection Bay	43,446,889.99	Jita
+30123	Tengu Offensive - Rifling Launcher Pattern	41,999,998.72	Amarr
+30124	Tengu Offensive - Magnetic Infusion Basin	32,448,998.84	Jita
+30125	Tengu Offensive - Covert Reconfiguration	43,446,898.92	Jita
+30127	Proteus Offensive - Dissonic Encoding Platform	41,999,999.00	Amarr
+30128	Proteus Offensive - Hybrid Propulsion Armature	43,299,969.25	Jita
+30129	Proteus Offensive - Drone Synthesis Projector	43,446,898.90	Jita
+30130	Proteus Offensive - Covert Reconfiguration	43,446,665.00	Jita
+30132	Loki Offensive - Turret Concurrence Registry	39,899,998.00	Amarr
+30133	Loki Offensive - Projectile Scoping Array	36,699,999.00	Jita
+30134	Loki Offensive - Hardpoint Efficiency Configuration	38,488,887.99	Jita
+30135	Loki Offensive - Covert Reconfiguration	43,446,836.88	Jita
+30139	Tengu Engineering - Power Core Multiplier	41,494,998.95	Amarr
+30141	Tengu Engineering - Augmented Capacitor Reservoir	41,052,774.62	Jita
+30143	Tengu Engineering - Capacitor Regeneration Matrix	41,052,774.48	Jita
+30145	Tengu Engineering - Supplemental Coolant Injector	40,999,998.56	Jita
+30149	Proteus Engineering - Power Core Multiplier	41,052,773.88	Jita
+30151	Proteus Engineering - Augmented Capacitor Reservoir	41,052,774.60	Jita
+30153	Proteus Engineering - Capacitor Regeneration Matrix	41,052,774.63	Jita
+30155	Proteus Engineering - Supplemental Coolant Injector	42,999,995.70	Jita
+30159	Loki Engineering - Power Core Multiplier	41,052,766.80	Jita
+30161	Loki Engineering - Augmented Capacitor Reservoir	38,000,000.00	Jita
+30163	Loki Engineering - Capacitor Regeneration Matrix	41,052,774.00	Jita
+30165	Loki Engineering - Supplemental Coolant Injector	29,999,664.92	Jita
+30169	Legion Engineering - Power Core Multiplier	40,999,988.96	Jita
+30171	Legion Engineering - Augmented Capacitor Reservoir	35,115,635.00	Dodixie
+30173	Legion Engineering - Capacitor Regeneration Matrix	41,052,773.00	Jita
+30175	Legion Engineering - Supplemental Coolant Injector	34,999,999.95	Jita
+30187	Intact Thruster Sections	6,999,998.99	Amarr
+30248	Emergent Combat Analyzer	35,550.00	Jita
+30251	Neurovisual Input Matrix	2,983.97	Jita
+30252	Thermoelectric Catalysts	39,800.00	Amarr
+30254	Electromechanical Hull Sheeting	2,000.00	Rens
+30258	Resonance Calibration Matrix	19,985.00	Jita
+30259	Melted Nanoribbons	2,990,000.00	Dodixie
+30268	Jump Drive Control Nexus	20,799.97	Amarr
+30269	Defensive Control Node	24,220.97	Amarr
+30270	Central System Controller	39,800.01	Jita
+30271	Emergent Combat Intelligence	45,803.00	Jita
+30303	Fulleroferrocene	2,099.87	Amarr
+30304	PPD Fullerene Fibers	10,000.00	Dodixie
+30305	Fullerene Intercalated Graphite	7,461.80	Jita
+30306	Methanofullerene	14,997.94	Amarr
+30307	Lanthanum Metallofullerene	24,849.17	Amarr
+30308	Scandium Metallofullerene	19,998.97	Jita
+30309	Graphene Nanoribbons	35,100.00	Jita
+30310	Carbon-86 Epoxy Resin	48,507.03	Amarr
+30311	C3-FTM Acid	98,000.00	Jita
+30344	Fulleroferrocene Reaction	12,899,499.95	Jita
+30345	PPD Fullerene Fibers Reaction	10,999,999.99	Jita
+30346	Fullerene Intercalated Graphite Reaction	11,499,998.99	Jita
+30348	Lanthanum Metallofullerene Reaction	13,399,999.00	Amarr
+30349	Scandium Metallofullerene Reaction	11,999,999.80	Jita
+30350	Graphene Nanoribbons Reaction	13,600,000.10	Amarr
+30351	Carbon-86 Epoxy Resin Reaction	11,998,976.28	Jita
+30352	C3-FTM Acid Reaction	13,499,999.99	Dodixie
+30368	Methanofullerene Reaction	13,600,000.10	Amarr
+30370	Fullerite-C50	4,587.83	Dodixie
+30371	Fullerite-C60	1,033.00	Amarr
+30372	Fullerite-C70	1,798.98	Dodixie
+30373	Fullerite-C72	9,999.99	Rens
+30374	Fullerite-C84	9,000.00	Rens
+30375	Fullerite-C28	9,000.00	Dodixie
+30376	Fullerite-C32	20,000.00	Dodixie
+30377	Fullerite-C320	49,000.00	Dodixie
+30378	Fullerite-C540	80,998.74	Jita
+30464	Metallofullerene Plating	278,997.09	Jita
+30466	Electromechanical Interface Nexus	666,630.15	Jita
+30470	Neurovisual Output Analyzer	24,000,000.00	Jita
+30474	Nanowire Composites	175,000.00	Amarr
+30476	Fulleroferrocene Power Conduits	1,950,000.00	Dodixie
+30478	Reconfigured Subspace Calibrator	748,998.28	Amarr
+30558	Malfunctioning Thruster Sections	3,249,895.80	Jita
+30562	Wrecked Thruster Sections	9,999.00	Amarr
+30582	Intact Power Cores	17,000,000.00	Rens
+30586	Malfunctioning Power Cores	3,603,096.98	Jita
+30588	Wrecked Power Cores	8,999.99	Dodixie
+30599	Intact Electromechanical Component	9,988,000.00	Rens
+30600	Malfunctioning Electromechanical Component	3,800,000.00	Jita
+30605	Wrecked Electromechanical Component	5,997.00	Amarr
+30614	Intact Armor Nanobot	5,000,000.00	Dodixie
+30615	Malfunctioning Armor Nanobot	1,500,000.00	Amarr
+30618	Wrecked Armor Nanobot	1,899.90	Jita
+30628	Intact Weapon Subroutines	7,000,000.00	Dodixie
+30632	Malfunctioning Weapon Subroutines	1,899,999.00	Dodixie
+30633	Wrecked Weapon Subroutines	9,999.99	Dodixie
+30744	Neural Network Analyzer	187,999.99	Dodixie
+30745	Sleeper Data Library	480,000.00	Dodixie
+30746	Ancient Coordinates Database	1,484,999.90	Dodixie
+30747	Sleeper Drone AI Nexus	5,448,999.00	Amarr
+30752	Intact Hull Section	4,999,999.97	Jita
+30753	Malfunctioning Hull Section	3,000,000.00	Amarr
+30754	Wrecked Hull Section	148,999.99	Jita
+30842	Interbus Shuttle	300,000,000.00	Amarr
+32207	Freki	0.00	Not For Sale
+32209	Mimir	0.00	Not For Sale
+32788	Cambion	0.00	Not For Sale
+32790	Etana	0.00	Not For Sale
+32811	Miasmos Amastris Edition	105,999,999.99	Jita
+32821	Unrefined Vanadium Hafnite	700,000,000.00	Dodixie
+32822	Unrefined Platinum Technite	770,000.00	Jita
+32823	Unrefined Solerium	0.00	Not For Sale
+32824	Unrefined Caesarium Cadmide	0.00	Not For Sale
+32825	Unrefined Hexite	0.00	Not For Sale
+32826	Unrefined Rolled Tungsten Alloy	100,000.00	Jita
+32827	Unrefined Titanium Chromide	300,000,000.00	Dodixie
+32828	Unrefined Fernite Alloy	0.00	Not For Sale
+32829	Unrefined Crystallite Alloy	985,995.95	Jita
+32830	Unrefined Vanadium Hafnite Reaction	3,449,999.93	Jita
+32831	Unrefined Platinum Technite Reaction	137,997.00	Jita
+32832	Unrefined Solerium Reaction	1,100,000.00	Jita
+32833	Unrefined Caesarium Cadmide Reaction	2,785,000.03	Jita
+32834	Unrefined Hexite Reaction	800,000.00	Jita
+32835	Unrefined Rolled Tungsten Alloy Reaction	4,999,998.97	Jita
+32836	Unrefined Titanium Chromide Reaction	0.00	Not For Sale
+32837	Unrefined Fernite Alloy Reaction	2,800,000.00	Jita
+32838	Unrefined Crystallite Alloy Reaction	695,995.95	Jita
+32872	Algos	1,388,499.90	Jita
+32874	Dragoon	1,029,999.99	Dodixie
+32876	Corax	1,426,989.96	Amarr
+32878	Talwar	1,379,896.72	Rens
+32880	Venture	307,219.99	Jita
+33079	Hematos	156,999,500.00	Jita
+33081	Taipan	180,000,000.00	Jita
+33083	Violator	173,000,000.00	Jita
+33329	Genolution 'Auroral' AU-79	2,699,999,995.00	Jita
+33336	Thulium Hafnite	14,449.94	Amarr
+33337	Promethium Mercurite	17,779.97	Amarr
+33338	Unrefined Promethium Mercurite	3,600,001.05	Jita
+33339	Unrefined Thulium Hafnite	0.00	Not For Sale
+33340	Thulium Hafnite Reaction	779,999.99	Jita
+33341	Promethium Mercurite Reaction	799,999.98	Jita
+33342	Unrefined Thulium Hafnite Reaction	3,798,986.96	Jita
+33343	Unrefined Promethium Mercurite Reaction	7,899,999.85	Jita
+33359	Photonic Metamaterials	11,558.86	Jita
+33360	Terahertz Metamaterials	11,818.91	Amarr
+33361	Plasmonic Metamaterials	10,497.94	Amarr
+33362	Nonlinear Metamaterials	24,883.32	Jita
+33363	Nonlinear Metamaterials Reaction	5,000,000.00	Rens
+33364	Photonic Metamaterials Reaction	3,999,998.99	Jita
+33365	Plasmonic Metamaterials Reaction	2,499,999.99	Jita
+33366	Terahertz Metamaterials Reaction	4,499,996.99	Jita
+33395	Moracha	178,000,000,000.00	Jita
+33397	Chremoas	0.00	Not For Sale
+33468	Astero	57,999,989.99	Rens
+33470	Stratios	205,595,999.00	Jita
+33539	Shattered Villard Wheel	1,000,000.00	Rens
+33577	Covert Research Tools	469,000.11	Dodixie
