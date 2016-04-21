@@ -1,14 +1,16 @@
 #!/usr/bin/python3 
+#~/.bashrc
 from helpers import *
 
 # possibly create list of headers to check if 
-
 # Create initial options list 
+
 options = """Option 1 - General Statistics for Each Trade Station
 Option 2 - All Statistics for Specific Trade Stations
 Option 3 - All Statistics for Specific Items for All Trade Stations
 Option 4 - Specific Statistics for Items Based on User Input
-* type "Help" for extra tips and instructions"""
+* type "Help" for extra tips and instructions
+* type "Exit" to exit the program"""
 
 # Loop through the initial set of options
 status = True
@@ -24,6 +26,8 @@ while status:
         option3()
     elif choice == "4":
         option4()
+    elif choice.lower() == "help":
+        help_message()
     elif choice.lower() == "exit":
         print("Thank you for your time! Please come back for all your Eve Online data analysis needs!")
         status = False
